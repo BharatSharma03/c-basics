@@ -1,4 +1,7 @@
 // To check the sides of a triangle is a valid or not
+// we know triangle ki 2 sides ka sum always greateer hota h 3rd side se (previus classes concept used in it )
+
+
 #include <iostream>
 using namespace  std;
 int main(){
