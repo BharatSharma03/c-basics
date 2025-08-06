@@ -1,4 +1,11 @@
 // to reverse a number 
+// kuch important steps or hiny -> isme 1st step m modulus calculate krna pdna 
+// 2nd m hume modulus ko add krna res*10 se
+// 3rd m hume divide nikalna h if condition ke lie 
+/ 3rd step m twist h 1 -> jb bhi int type m float ki value dalte h vo int hi consider hoti h  
+// eg= 123.5 float = int 123 (decimal value neglect ho jaati h )
+
+
 #include <iostream>
 using namespace  std;
 int main(){
