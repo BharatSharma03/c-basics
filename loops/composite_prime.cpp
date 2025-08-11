@@ -11,7 +11,7 @@ int main(){
     bool x=true;
     // for(int i=2;i<n;i++)   also i can use this 
     for(int i=2;i<=n/2;i++){
-        if(n%2==0){
+        if(n%i==0){
             x=false;
             break;
         }
